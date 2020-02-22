@@ -1,3 +1,4 @@
+!!! Fisierele .json si .py nu sunt scrise de mine.
 
 1. Informatii despre structurile de date folosite:
 --------------------------------------------------
